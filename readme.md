@@ -2,7 +2,7 @@ Laboratório Prometheus
 Status: Em desenvolvimento
 
 Descrição do Laboratório:
-Este laboratório é baseado no exemplo disponível no site prometheus.io.
+Este laboratório é baseado no exemplo disponível no site [prometheus.io.](https://prometheus.io/)
 
 Tecnologias Utilizadas:
 Linux (baseado no Ubuntu)
